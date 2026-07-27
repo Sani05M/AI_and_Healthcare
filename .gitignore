@@ -1,0 +1,4 @@
+﻿.ipynb_checkpoints/
+Qwen2.5VL_Finetuned/
+best_model.pth
+last_epoch_model.pth
